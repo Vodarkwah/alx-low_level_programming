@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints numbers from 0 to 9.
+ * main - Prints number combinations
  *
  * Return: Always 0 (Success)
  */
@@ -13,10 +13,10 @@ int main(void)
 	{
 	for (r = l + 1 ; r <= 78; r++)
 	{
-		putchar(r);
 		putchar(l);
+		putchar(r);
 
-		if ((l == 50) && (r == 78))
+		if ((l == 56) && (r == 78))
 		{
 			break;
 		}
