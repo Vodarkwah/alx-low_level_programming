@@ -14,7 +14,7 @@ int main(void)
 	for (r = l + 1 ; r <= 78; r++)
 	{
 		putchar(r);
-		putchar(l0);
+		putchar(l);
 
 		if ((l == 50) && (r == 78))
 		{
