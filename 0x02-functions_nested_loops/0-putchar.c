@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
  * main - prints _putchar and a new line
  *
@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	_putchar("\n_\np\nu\nt\nc\nh\na\nr\n");
+	_putchar("_putchar\n");
 	return (0);
 }
