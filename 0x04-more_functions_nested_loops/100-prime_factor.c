@@ -6,7 +6,7 @@
  */
 
 int main(void)
-
+{
 	long int n, prime_fac;
 
 	n = 612852475143;
