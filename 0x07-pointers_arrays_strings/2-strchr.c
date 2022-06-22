@@ -4,7 +4,8 @@
  * the character.
  * @s: string.
  * @c: character.
- * Return: the pointer to the first occurrence of the character c or NULL if the character is not found.
+ * Return: the pointer to the first occurrence of the
+ * character c or NULL if the character is not found.
  */
 char *_strchr(char *s, char c)
 {
