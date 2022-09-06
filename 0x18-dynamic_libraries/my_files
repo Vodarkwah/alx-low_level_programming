@@ -16,7 +16,7 @@ gcc -c ../0x05-pointers_arrays_strings/2-strlen.c -fpic
 
 gcc -c ../0x05-pointers_arrays_strings/3-puts.c -fpic
 
-gcc -c ../0x05-pointers_arrays_strings/9-strcpy.c fpic
+gcc -c ../0x05-pointers_arrays_strings/9-strcpy.c -fpic
 
 gcc -c ../0x05-pointers_arrays_strings/100-atoi.c -fpic
 
